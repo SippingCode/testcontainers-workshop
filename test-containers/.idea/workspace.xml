@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="760dd933-0ab2-4de3-a6ee-c4a7e151fc9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tMoYAm9I1FGE3dcRH7fAuA46Vy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/testcontainers/workshop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/testcontainers/workshop" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testdata" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/db/migration" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/testcontainers/workshop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CreatePersonIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-containers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcontainers.workshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcontainers.workshop" />
+      <option name="MAIN_CLASS_NAME" value="com.testcontainers.workshop.CreatePersonIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreatePersonIT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="760dd933-0ab2-4de3-a6ee-c4a7e151fc9f" name="Default Changelist" comment="" />
+      <created>1622588363426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622588363426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="283" key="GridCell.Tab.0.bottom" timestamp="1622624790153">
+      <screen x="0" y="25" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="283" key="GridCell.Tab.0.bottom/-1080.-775.1080.1895/0.25.1792.1042@0.25.1792.1042" timestamp="1622624790153" />
+    <state width="1750" height="283" key="GridCell.Tab.0.center" timestamp="1622624790151">
+      <screen x="0" y="25" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="283" key="GridCell.Tab.0.center/-1080.-775.1080.1895/0.25.1792.1042@0.25.1792.1042" timestamp="1622624790151" />
+    <state width="1750" height="283" key="GridCell.Tab.0.left" timestamp="1622624790151">
+      <screen x="0" y="25" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="283" key="GridCell.Tab.0.left/-1080.-775.1080.1895/0.25.1792.1042@0.25.1792.1042" timestamp="1622624790151" />
+    <state width="1750" height="283" key="GridCell.Tab.0.right" timestamp="1622624790152">
+      <screen x="0" y="25" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="283" key="GridCell.Tab.0.right/-1080.-775.1080.1895/0.25.1792.1042@0.25.1792.1042" timestamp="1622624790152" />
+    <state x="573" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1622588369226">
+      <screen x="0" y="25" width="2048" height="1202" />
+    </state>
+    <state x="573" y="363" key="com.intellij.ide.util.TipDialog/0.25.2048.1202@0.25.2048.1202" timestamp="1622588369226" />
+  </component>
+</project>
